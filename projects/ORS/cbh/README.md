@@ -14,7 +14,7 @@
 
 後台管理網站:
 
-  https://tommy770221.com/cbh/diseases?page=1&size=10
+  https://domain.com/cbh/diseases?page=1&size=10
 
 
 目錄說明：
